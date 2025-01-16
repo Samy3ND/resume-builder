@@ -12,5 +12,37 @@ An interactive **Resume Builder** application built with **Streamlit**, designed
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/resume-builder.git
+   git clone https://github.com/Samy3ND/resume-builder.git
    cd resume-builder
+
+2. Install the required dependencies: 
+   ```bash
+   pip install -r requirements.txt
+
+3. Set up your API key:
+   Replace the api_key variable in the script with your API key from aimlapi.com.
+
+4. Run the application:
+   ```bash
+   streamlit run app.py
+
+
+## How to Use
+-**Launch the app using Streamlit.
+-**Fill in your personal details, educational background, work experiences, and other fields.
+-**Specify your target job role to get AI-recommended skills.
+-**Review the inputs and click Generate Resume to create a PDF.
+-**Download your resume and share it!
+
+## Requirements
+-**Python 3.7 or later
+
+## Required Libraries:
+-**streamlit
+-**requests
+-**fpdf
+
+
+## Feedback
+Feel free to open an issue or suggest improvements. Contributions are welcome!
+
