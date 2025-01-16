@@ -28,19 +28,19 @@ An interactive **Resume Builder** application built with **Streamlit**, designed
 
 
 ## How to Use
--**Launch the app using Streamlit.
--**Fill in your personal details, educational background, work experiences, and other fields.
--**Specify your target job role to get AI-recommended skills.
--**Review the inputs and click Generate Resume to create a PDF.
--**Download your resume and share it!
+- **Launch the app using Streamlit.
+- **Fill in your personal details, educational background, work experiences, and other fields.
+- **Specify your target job role to get AI-recommended skills.
+- **Review the inputs and click Generate Resume to create a PDF.
+- **Download your resume and share it!
 
 ## Requirements
--**Python 3.7 or later
+- **Python 3.7 or later
 
 ## Required Libraries:
--**streamlit
--**requests
--**fpdf
+- **streamlit
+- **requests
+- **fpdf
 
 
 ## Feedback
